@@ -73,7 +73,7 @@ Recovery Time Objective (RTO) is the time required to restore application availa
 
 In this project, RTO is measured from the time the primary Mumbai server is stopped until the DR application in Singapore becomes accessible.
 
-**Observed RTO:** Approximately ___ minutes.
+**Observed RTO:** Approximately 05 minutes.
 
 ## Disaster Simulation
 
